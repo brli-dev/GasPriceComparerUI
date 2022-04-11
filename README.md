@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GasPriceComparerUI - Hack The North's project
 
 ## Inspiration
@@ -14,3 +15,6 @@ Most of us haven't worked on UI/UX design yet so we are proud of making a clean 
 We learned a lot about frontend and UI/UX design during this project. We learned bootstrap and achieved a higher proficiency in Html and CSS.
 ## What's next for Gas Price Comparer
 There are still many features that we want to make. We want to make a working backend with an API that we originally were planning on using. The website still needs to update the map when we enter the zip code in. We would like to add a feature that allows you to plan road trips and Gas Price Comparer will tell you the cheapest route to take and what stops to take based on gas prices. Gas Price Comparer is definitely still a work in progress and there are many things to be done before it can be released but our team is dedicated to make this project a real website.
+=======
+
+>>>>>>> de829c401d4a3b86d2f3b25f14e93e7df71db8e9
